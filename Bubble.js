@@ -24,20 +24,20 @@ const styles = StyleSheet.create({
   },
   bubbleLeft: {
     marginRight: 70,
-    backgroundColor: '#e6e6eb',
+    backgroundColor: '#ffffff',
     alignSelf: 'flex-start',
   },
   bubbleRight: {
     marginLeft: 70,
-    backgroundColor: '#007aff',
+    backgroundColor: '#00aeda',
     alignSelf: 'flex-end',
   },
   bubbleCenter: {
-    backgroundColor: '#007aff',
+    backgroundColor: '#00aeda',
     alignSelf: 'center',
   },
   bubbleError: {
-    backgroundColor: '#e01717',
+    backgroundColor: '#ff3826',
   },
 });
 
